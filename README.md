@@ -200,3 +200,15 @@ npm audit --json > reports/dependency-check.json
 
 [Link](https://excalidraw.com/#json=__Iihah_39uoh6VxG-PFB,kH189iWN885ayqADsM0MNg) al diagrama de arquitectura y navegación
 ![alt text](public/image.png)
+
+---
+
+## Uso de IA
+
+Este directorio documenta los prompts utilizados con Claude Code para generar el proyecto **NewsApp**.
+
+| #   | Archivo                                                                | Descripción                                                      |
+| --- | ---------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| 1   | [01_prompt_inicial_pdf.md](./prompts/01_prompt_inicial_pdf.md)                 | Lectura del PDF del enunciado y generación completa del proyecto |
+| 2   | [02_prompt_eleccion_tecnologia.md](./prompts/02_prompt_eleccion_tecnologia.md) | Elección de Expo vs Kotlin antes de comenzar el desarrollo       |
+| 3   | [03_prompt_error_versiones.md](./prompts/03_prompt_error_versiones.md)         | Resolución de conflictos de peer dependencies al instalar        |
