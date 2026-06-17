@@ -200,3 +200,9 @@ npm audit --json > reports/dependency-check.json
 
 [Link](https://excalidraw.com/#json=__Iihah_39uoh6VxG-PFB,kH189iWN885ayqADsM0MNg) al diagrama de arquitectura y navegación
 ![alt text](public/image.png)
+
+---
+
+## Video de demostración
+
+[Link al video](./public/video.mp4)
