@@ -1,0 +1,2 @@
+app_identifier("com.student.newsapp")
+package_name("com.student.newsapp")
